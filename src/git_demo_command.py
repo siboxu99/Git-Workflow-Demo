@@ -4,3 +4,4 @@ class GitDemoClass:
 
     def show_git_add(self):
         print('git add from feature branch')
+        print('git add from branch main')
