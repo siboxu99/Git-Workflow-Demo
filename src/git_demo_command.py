@@ -3,4 +3,4 @@ class GitDemoClass:
         print('This class will be used for Git Good Demo session!')
 
     def show_git_add(self):
-        print('git add .')
+        print('git add from branch main')
